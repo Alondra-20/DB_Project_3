@@ -1,5 +1,5 @@
 #include "exec/Evaluator.h"
-
+#include <algorithm>
 #include <cstdint>
 #include <limits>
 

@@ -1,5 +1,5 @@
 #include "exec/Executor.h"
-
+#include <algorithm>
 #include "exec/Binder.h"
 #include "exec/Evaluator.h"
 #include "schema/TableSchemaJson.h"
